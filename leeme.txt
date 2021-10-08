@@ -1,0 +1,4 @@
+Para la conexion a la base de datos, hay dor archivos que se tienen que modificar,
+el primero esta en:
+-carpeta sql/conexion.php
+-el otro esta en admin/sql/usuario.php en la linea 13.
